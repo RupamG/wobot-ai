@@ -2,7 +2,7 @@
 
 ### click below to see the live version
 
-[Click Here](https://serene-dubinsky-fb7602.netlify.app/)
+[Click Here](https://rupamg.github.io/wobot-ai/)
 
 #
 
