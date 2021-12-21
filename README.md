@@ -6,4 +6,4 @@
 
 #
 
-![assignment screenshot](<[=](https://i.imgur.com/nCJdPpV.png)>)
+![assignment screenshot](https://i.imgur.com/nCJdPpV.png)
